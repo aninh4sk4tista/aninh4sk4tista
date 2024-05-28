@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfio 💕
 
-<!--
-**aninh4sk4tista/aninh4sk4tista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Julya
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou no desenvolvimento do JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entra em contato comigo:
+
+00001094262997SP@al.educaacao.sp.gov.br
+
+![image](https://github.com/aninh4sk4tista/aninh4sk4tista/assets/170975966/9482033d-9a2a-428b-b0ab-3aac7ad57c9d)
